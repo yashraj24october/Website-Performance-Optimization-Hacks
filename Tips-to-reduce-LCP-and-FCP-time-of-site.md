@@ -6,7 +6,7 @@
 
 ### Tips to reduce LCP time
 
-1. Identify the largest element of 'Above the fold' part and ensure it is lighter and will load faster. Make effort by code that it load faster.<br>
+1. Identify the largest element of 'Above the fold' part and ensure it is lighter and will load faster. Make effort by code that it load faster. So, Try to less use the images/videos slideshow in this part.<br>
 2.  Add <b>font-display: swap; </b> in @font-face{} <br>
  it will impove the LCP. because of this browser will not wait for downloading of assigned font,<br> it will initially use the downloaded font first then swap after downloading of required font.
 3.  Add defer in script elements
