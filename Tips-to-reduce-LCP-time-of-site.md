@@ -12,9 +12,10 @@
  it will impove the LCP. because of this browser will not wait for downloading of assigned font,<br> it will initially use the downloaded font first then swap after downloading of required font.
 4.  Add defer in script elements
 5. Minify html, css and JS file it will decrease the execution and load time.
-6. Reduce of database queries and try caching of query result
-7. Implement caching of view results.
-8. Remove unused codes from CSS and JS.
-9. Remove unnecessary commented codes.
+   [For Minifying JS files, In Drupal we can use 'Minify JS' Module or do using online tools]
+7. Reduce of database queries and try caching of query result
+8. Implement caching of view results.
+9. Remove unused codes from CSS and JS.
+10. Remove unnecessary commented codes.
    
 
