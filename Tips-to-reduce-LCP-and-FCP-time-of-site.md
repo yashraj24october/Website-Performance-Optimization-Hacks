@@ -18,6 +18,6 @@
 7. Implement caching of view results.
 8. Remove unused codes from CSS and JS.
 9. Remove unnecessary commented codes.
-10. Downloaded all required font instead of using @import in css.
+10. Download all required font instead of using @import in css.
    
 
