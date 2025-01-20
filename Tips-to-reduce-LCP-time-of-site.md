@@ -1,4 +1,4 @@
-#  LCP ( Largest Contentful Paint)
+#  LCP ( Largest Contentful Paint) and FCP (First Contentful Paint)
 ## - It is time taken my largest element of our 'About the fold content'
 ## About the fold content: the top part of page that users first see, any elements in this part should be lighter in this part and should load fast, especially the largest element in this part
 ## If any element in this part take more time, it become the LCP time and it reduce the performance of page.
